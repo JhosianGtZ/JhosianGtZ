@@ -1,8 +1,9 @@
-### Hello World c:
+# Hello World c:
 ![Hello wolrd](Coding.gif)
 
 ## About Me.
-I'm a software developer who enjoys making things with web technologies. I've worked on different projects as a front-end and back-end developer using technologies like , Django, Bootstrap, CSS, Vanilla JavaScript, and databases like MySql, PostgreSQL.
+
+### I'm a software developer who enjoys making things with web technologies. I've worked on different projects as a front-end and back-end developer using technologies like , Django, Bootstrap, CSS, Vanilla JavaScript, and databases like MySql, PostgreSQL.
 
 ![Web Tech](https://media1.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif?cid=ecf05e479588472kjc272bez096o6idywyjj2trp8kvqv64s&rid=giphy.gif&ct=g)
 
