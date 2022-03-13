@@ -9,5 +9,5 @@ I'm a software developer who enjoys making things with web technologies. I've wo
 
 ## My Contact Links
 
-[![Instagram](icons8-instagram-100.png)](https://instagram.com/_jhosian) [![Linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/jhosiangtz/) [![Website](icons8-website-100.png)](https://jhosiandev.herokuapp.com/)
+[![Instagram](icons8-instagram-100.png)](https://instagram.com/_jhosian) [![Linkedin](icons8-linkedin-100.png)](https://www.linkedin.com/in/jhosiangtz/) [![Website](icons8-website-100.png)](https://jhosiangtz.github.io/)
 
